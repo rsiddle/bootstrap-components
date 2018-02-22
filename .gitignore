@@ -1,0 +1,11 @@
+# Mac finder artifacts
+.DS_Store
+
+# Textmate project files
+/*.tmproj
+
+# vim artifacts
+**.swp
+
+# temporary build page
+/src/templates/all.html
